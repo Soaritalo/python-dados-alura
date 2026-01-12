@@ -8,4 +8,4 @@ dados = {
 df = pd.DataFrame(dados)
 
 print(df)
-print("\nTotal de vendas:", df["vendas"].sum())
+print("\nTotal de vendas:", df["vendas"].sum());
